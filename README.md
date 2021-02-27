@@ -1,0 +1,1 @@
+Get binary from mysql utilizing 
